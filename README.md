@@ -5,8 +5,12 @@
 This repository contains the solution for the delivery time prediction assignment using Multiple Linear Regression. The project involves analyzing Porter order data to predict delivery times based on multiple features like order details, delivery partner availability, and distance etc.
 
 ## Contents
-* **LR\_Delivery\_Time\_Prediction.ipynb** — Interactive Jupyter Notebook with code for data preprocessing, exploratory data analysis (EDA), feature engineering, model building, and evaluation.
-* **LR\_Delivery\_Time\_Prediction\_Report.pdf** — Detailed report documenting visualizations, methodologies, insights, model results, and inferences.
+- **LR_Delivery_Time_Prediction_Nikhil_Kalra.zip**  
+  └── Contains:  
+  &nbsp;&nbsp;&nbsp;&nbsp;• `LR_Delivery_Time_Estimation_Starter_Nikhil_Kalra.py` – Python script with the full model pipeline  
+  &nbsp;&nbsp;&nbsp;&nbsp;• `LR_Delivery_Time_Prediction_Nikhil_Kalra.pdf` – Report documenting methodology, visualizations, insights, and results
+
+- **Dataset File** – Provided separately outside the ZIP (ensure it's placed in the correct directory as specified in the code)
 
 ## Approach
 
