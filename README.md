@@ -6,9 +6,9 @@ This repository contains the solution for the delivery time prediction assignmen
 
 ## Contents
 - **LR_Delivery_Time_Prediction_Nikhil_Kalra.zip**  
-  └── Contains:  
-  &nbsp;&nbsp;&nbsp;&nbsp;• `LR_Delivery_Time_Estimation_Starter_Nikhil_Kalra.py` – Python script with the full model pipeline  
-  &nbsp;&nbsp;&nbsp;&nbsp;• `LR_Delivery_Time_Prediction_Nikhil_Kalra.pdf` – Report documenting methodology, visualizations, insights, and results
+  Contains:  
+  • `LR_Delivery_Time_Estimation_Starter_Nikhil_Kalra.py` – Python script with the full model pipeline  
+  • `LR_Delivery_Time_Prediction_Nikhil_Kalra.pdf` – Report documenting methodology, visualizations, insights, and results
 
 - **Dataset File** – Provided separately outside the ZIP (ensure it's placed in the correct directory as specified in the code)
 
